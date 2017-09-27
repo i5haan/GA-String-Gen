@@ -1,9 +1,9 @@
 ################################################################
 #                                                              #
 #   This Python Script uses Genetic Algorithm to generarte a   #
-#	string which is choosen by the user.                       #
+#   string which is choosen by the user.                       #
 #                                                              #
-#	The Result is also plotted using the Matplotlib library    #
+#   The Result is also plotted using the Matplotlib library    #
 #   pyplot class                                               #
 #                                                              #
 #   Still Working on few more things such as incorporating     #
